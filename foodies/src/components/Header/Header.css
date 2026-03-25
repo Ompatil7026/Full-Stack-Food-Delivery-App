@@ -1,0 +1,10 @@
+.header {
+    padding: 5 rem;
+    margin-bottom: 1 rem;
+    border-radius: 0.3rem;
+    margin-top: 0.25rem;
+    color: white;
+    background-image: url("../../assets/login1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
